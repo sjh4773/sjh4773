@@ -1,16 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=89E5EB&height=300&section=header&text=JIHUN%20SEO&fontSize=90)
 
-<!--
-**sjh4773/sjh4773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
-Here are some ideas to get you started:
+<p align="center"> Tech that I've used at least once </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+![]("https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white") ![]("https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white") 
+
+
+<h3 align="center">🏄 Me 🏄 </h3>
+
+<a href="https://sjh4773.github.io/"><img src="https://img.shields.io/badge/Tech Blog-1AB7EA?style=flat-square&logo=Vimeo&logoColor=white&link=https://sjh4773.github.io/"/></a>&nbsp
