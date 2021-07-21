@@ -8,17 +8,9 @@
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-
-<h3 align="center">🏄 Me 🏄 </h3>
-
-
-<p>
-<a href="https://sjh4773.github.io/"><img src="https://img.shields.io/badge/Tech Blog-1AB7EA?style=flat-square&logo=Vimeo&logoColor=white&link=https://sjh4773.github.io/"/></a>
 </p>
 
-<style>
-    p{
-        text-align: center;
-      }
-
-</style>
+<h3 align="center">🏄 Me 🏄 </h3>
+<p align="center">
+<a href="https://sjh4773.github.io/"><img src="https://img.shields.io/badge/Tech Blog-1AB7EA?style=flat-square&logo=Vimeo&logoColor=white&link=https://sjh4773.github.io/"/></a>
+</p>
