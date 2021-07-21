@@ -12,7 +12,13 @@
 <h3 align="center">🏄 Me 🏄 </h3>
 
 
-
+<p>
 <a href="https://sjh4773.github.io/"><img src="https://img.shields.io/badge/Tech Blog-1AB7EA?style=flat-square&logo=Vimeo&logoColor=white&link=https://sjh4773.github.io/"/></a>
+</p>
 
+<style>
+    p{
+        text-align: center;
+      }
 
+</style>
