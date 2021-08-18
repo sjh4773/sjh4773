@@ -13,5 +13,5 @@
 <h3 align="center">🏄 Me 🏄 </h3>
 <p align="center">
 <a href="https://sjh4773.github.io/"><img src="https://img.shields.io/badge/Tech Blog-1AB7EA?style=flat-square&logo=Vimeo&logoColor=white&link=https://sjh4773.github.io/"/></a>
-<a href="https://public.tableau.com/app/profile/.22377384/"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau Galley&logoColor=white&link=https://public.tableau.com/app/profile/.22377384"/></a>
+<a href="https://public.tableau.com/app/profile/.22377384/"><img src="https://img.shields.io/badge/Tableau Gallery-E97627?style=flat-square&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/.22377384"/></a>
 </p>
