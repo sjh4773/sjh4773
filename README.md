@@ -34,6 +34,10 @@
 <p align="center">◾교육 시간: 39.5시간</p>
 <p align="center">◾포항공과대학교 총장 수료증 발급</p>
 
+<p align="center">◾클래스 101</p>
+<p align="center">◾기간: 2021.02.10 - 2021.07.18</p>
+<p align="center">◾교육 시간: 39.5시간</p>
+<p align="center">◾클래스 101 수료증 발급 </p>
 
 <table align="center">
     <tr>
@@ -60,5 +64,10 @@
     	<td>빅데이터분석과 R프로그래밍Ⅱ</td>
         <td>11시간</td>
         <td>2021.4.08</td>
+    </tr>
+    <tr>
+    	<td>서울대 출신 AI 연구직의 세상에서 제일 쉬운 머신러닝</td>
+        <td>1054시간</td>
+        <td>2021.7.20</td>
     </tr>
 </table>
