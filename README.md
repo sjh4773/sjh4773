@@ -41,6 +41,30 @@
 
 <table align="center">
     <tr>
+    	<td>강의 기관</td>
+        <td>기간</td>
+        <td>교육 시간</td>
+        <td>수료증</td>
+    </tr>
+     <tr>
+    	<td>POSTEC 청년 AI · Big Data 아카데미(MOOC)</td>
+        <td>2021.02.01 - 2021.04.10</td>
+        <td>39.5시간</td>
+        <td>포항공과대학교 총장 수료증 발급</td>
+    </tr>
+     <tr>
+    	<td>클래스 101</td>
+        <td>기간: 2021.02.10 - 2021.07.18</td>
+        <td>18시간</td>
+        <td>클래스 101 수료증 발급</td>
+    </tr>
+</table>
+
+
+
+
+<table align="center">
+    <tr>
     	<td>강의명</td>
         <td>학습 시간</td>
         <td>수료일자</td>
