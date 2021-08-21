@@ -17,9 +17,9 @@
 </p>
 
 <h3 align="center">📚 어학 능력 & 자격증 📚 </h3>
-<h4 align="center"><b>어학 능력</b></p>
+<h4 align="center">◾어학 능력</p>
 <p align="center"> TOEIC: 830점 / 2020.08.30 / ETS </p>
-<h4 align="center"><b>자격증</b></p>
+<h4 align="center">◾자격증</p>
 <p align="center"> 정보처리기사 / 2021.08.20 / 한국산업인력공단 </p>
 <p align="center"> 전기기사 / 2020.11.12 / 한국산업인력공단 </p>
 <p align="center"> ADSP / 2021.06.18 / 한국데이터산업진흥원 </p>
@@ -29,10 +29,10 @@
 
 <h3 align="center">✍ 기타교육 ✍ </h3>
 
-POSTEC 청년 AI · Big Data 아카데미(MOOC)
-기간: 2021.02.01 - 2021.04.10
-교육 시간: 39.5시간
-포항공과대학교 총장 수료증 발급
+<p align="center">◾POSTEC 청년 AI · Big Data 아카데미(MOOC)</p>
+<p align="center">◾기간: 2021.02.01 - 2021.04.10</p>
+<p align="center">◾교육 시간: 39.5시간</p>
+<p align="center">◾포항공과대학교 총장 수료증 발급</p>
 
 |강의명|학습 시간|수료 일자|
 |---|---|---|
