@@ -66,7 +66,7 @@
 
 
 
-<table align="center">
+<table align="left">
     <tr>
     	<td>강의명</td>
         <td>학습 시간</td>
@@ -93,7 +93,7 @@
         <td>2021.4.08</td>
     </tr>
 </table>
-<table align="center">
+<table align="left">
     <tr>
     	<td>강의명</td>
         <td>학습 시간</td>
@@ -105,7 +105,7 @@
         <td>2021.7.20</td>
     </tr>
 </table>
-<table align="center">
+<table align="left">
     <tr>
     	<td>강의명</td>
         <td>학습 시간</td>
@@ -137,7 +137,7 @@
         <td>  </td>
     </tr>
 </table>
-<table align="center">
+<table align="left">
     <tr>
     	<td>강의명</td>
         <td>학습 시간</td>
