@@ -29,15 +29,6 @@
 
 <h3 align="center">✍ 기타교육 ✍ </h3>
 
-<p align="center">◾POSTEC 청년 AI · Big Data 아카데미(MOOC)</p>
-<p align="center">◾기간: 2021.02.01 - 2021.04.10</p>
-<p align="center">◾교육 시간: 39.5시간</p>
-<p align="center">◾포항공과대학교 총장 수료증 발급</p>
-
-<p align="center">◾클래스 101</p>
-<p align="center">◾기간: 2021.02.10 - 2021.07.18</p>
-<p align="center">◾교육 시간: 18시간</p>
-<p align="center">◾클래스 101 수료증 발급 </p>
 
 <table align="center">
     <tr>
