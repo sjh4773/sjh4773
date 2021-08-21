@@ -67,7 +67,7 @@
 
 
 <table align="left">
-<div margin-left: 1px>
+<div margin-left: 50px>
     <tr>
     	<td>강의명</td>
         <td>학습 시간</td>
