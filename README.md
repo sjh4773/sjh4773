@@ -68,90 +68,90 @@
 
 <table align="center">
      <tr>
-        <th colspan="3">POSTEC 청년 AI · Big Data 아카데미(MOOC)</th>
+        <th colspan="3"; bgcolor="#B0C4DE">POSTEC 청년 AI · Big Data 아카데미(MOOC)</th>
     </tr>
     <tr>
-    	<td>강의명</td>
-        <td>학습 시간</td>
-        <td>수료일자</td>
+    	<td bgcolor="white">강의명</td>
+        <td bgcolor="white">학습 시간</td>
+        <td bgcolor="white">수료일자</td>
     </tr>
      <tr>
-    	<td>데이터사이언스를 위한 통계학입문Ⅰ</td>
-        <td>9시간</td>
-        <td>2021.3.30</td>
+    	<td bgcolor="white">데이터사이언스를 위한 통계학입문Ⅰ</td>
+        <td bgcolor="white">9시간</td>
+        <td bgcolor="white">2021.3.30</td>
     </tr>
      <tr>
-    	<td>데이터사이언스를 위한 통계학입문Ⅱ</td>
-        <td>10시간 30분</td>
-        <td>2021.3.31</td>
+    	<td bgcolor="white">데이터사이언스를 위한 통계학입문Ⅱ</td>
+        <td bgcolor="white">10시간 30분</td>
+        <td bgcolor="white">2021.3.31</td>
     </tr>
     <tr>
-    	<td>빅데이터분석과 R프로그래밍Ⅰ</td>
-        <td>9시간</td>
-        <td>2021.4.07</td>
+    	<td bgcolor="white">빅데이터분석과 R프로그래밍Ⅰ</td>
+        <td bgcolor="white">9시간</td>
+        <td bgcolor="white">2021.4.07</td>
     </tr>
     <tr>
-    	<td>빅데이터분석과 R프로그래밍Ⅱ</td>
-        <td>11시간</td>
-        <td>2021.4.08</td>
+    	<td bgcolor="white">빅데이터분석과 R프로그래밍Ⅱ</td>
+        <td bgcolor="white">11시간</td>
+        <td bgcolor="white">2021.4.08</td>
     </tr>
      <tr>
-        <th colspan="3">클래스 101</th>
+        <th colspan="3"; bgcolor="#B0C4DE">클래스 101</th>
     </tr>
     <tr>
-    	<td>강의명</td>
-        <td>학습 시간</td>
-        <td>수료일자</td>
+    	<td bgcolor="white">강의명</td>
+        <td bgcolor="white">학습 시간</td>
+        <td bgcolor="white">수료일자</td>
     </tr>
     <tr>
-    	<td>서울대 출신 AI 연구직의 세상에서 제일 쉬운 머신러닝</td>
-        <td>18시간</td>
-        <td>2021.7.20</td>
+    	<td bgcolor="white">서울대 출신 AI 연구직의 세상에서 제일 쉬운 머신러닝</td>
+        <td bgcolor="white">18시간</td>
+        <td bgcolor="white">2021.7.20</td>
     </tr>
     <tr>
-        <th colspan="3">인프런</th>
+        <th colspan="3"; bgcolor="#B0C4DE">인프런</th>
     </tr>
     <tr>
-    	<td>강의명</td>
-        <td>학습 시간</td>
-        <td>수료일자</td>
+    	<td bgcolor="white">강의명</td>
+        <td bgcolor="white">학습 시간</td>
+        <td bgcolor="white">수료일자</td>
     </tr>
     <tr>
-    	<td>Pandas 팬더스 데이터분석 기초 실습</td>
-        <td>1시간 21분</td>
-        <td>2021.7.21</td>
+    	<td bgcolor="white">Pandas 팬더스 데이터분석 기초 실습</td>
+        <td bgcolor="white">1시간 21분</td>
+        <td bgcolor="white">2021.7.21</td>
     </tr>
     <tr>
-    	<td>[백문이불여일타] 데이터 분석을 위한 기초 SQL</td>
-        <td>1시간 36분</td>
-        <td>  </td>
+    	<td bgcolor="white">[백문이불여일타] 데이터 분석을 위한 기초 SQL</td>
+        <td bgcolor="white">1시간 36분</td>
+        <td bgcolor="white">  </td>
     </tr>
     <tr>
-    	<td>[백문이불여일타] 데이터 분석을 위한 중급 SQL</td>
-        <td>4시간 15분</td>
-        <td>  </td>
+    	<td bgcolor="white">[백문이불여일타] 데이터 분석을 위한 중급 SQL</td>
+        <td bgcolor="white">4시간 15분</td>
+        <td bgcolor="white">  </td>
     </tr>
     <tr>
-    	<td>[백문이불여일타] 데이터 분석을 위한 중급 SQL 문제풀이</td>
-        <td>2시간 12분</td>
-        <td>  </td>
+    	<td bgcolor="white">[백문이불여일타] 데이터 분석을 위한 중급 SQL 문제풀이</td>
+        <td bgcolor="white">2시간 12분</td>
+        <td bgcolor="white">  </td>
     </tr>
     <tr>
-    	<td>NoSQL DB (몽고DB/mongodb) 기본부터 파이썬/데이터분석 활용까지!</td>
-        <td>10시간 13분</td>
-        <td>  </td>
+    	<td bgcolor="white">NoSQL DB (몽고DB/mongodb) 기본부터 파이썬/데이터분석 활용까지!</td>
+        <td bgcolor="white">10시간 13분</td>
+        <td bgcolor="white">  </td>
     </tr>
     <tr>
-        <th colspan="3">국민대학교 OCW</th>
+        <th colspan="3"; bgcolor="#B0C4DE">국민대학교 OCW</th>
     </tr>
     <tr>
-    	<td>강의명</td>
-        <td>학습 시간</td>
-        <td>수료일자</td>
+    	<td bgcolor="white">강의명</td>
+        <td bgcolor="white">학습 시간</td>
+        <td bgcolor="white">수료일자</td>
     </tr>
     <tr>
-    	<td>파이썬 환경에서 스파크(Spark)을 사용한 빅데이터 처리</td>
-        <td>12시간</td>
-        <td>  </td>
+    	<td bgcolor="white">파이썬 환경에서 스파크(Spark)을 사용한 빅데이터 처리</td>
+        <td bgcolor="white">12시간</td>
+        <td bgcolor="white">  </td>
     </tr>
 </table>
