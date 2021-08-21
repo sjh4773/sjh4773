@@ -92,10 +92,24 @@
         <td>11시간</td>
         <td>2021.4.08</td>
     </tr>
+</table>
+<table align="center">
+    <tr>
+    	<td>강의명</td>
+        <td>학습 시간</td>
+        <td>수료일자</td>
+    </tr>
     <tr>
     	<td>서울대 출신 AI 연구직의 세상에서 제일 쉬운 머신러닝</td>
         <td>18시간</td>
         <td>2021.7.20</td>
+    </tr>
+</table>
+<table align="center">
+    <tr>
+    	<td>강의명</td>
+        <td>학습 시간</td>
+        <td>수료일자</td>
     </tr>
     <tr>
     	<td>Pandas 팬더스 데이터분석 기초 실습</td>
@@ -121,6 +135,13 @@
     	<td>NoSQL DB (몽고DB/mongodb) 기본부터 파이썬/데이터분석 활용까지!</td>
         <td>10시간 13분</td>
         <td>  </td>
+    </tr>
+</table>
+<table align="center">
+    <tr>
+    	<td>강의명</td>
+        <td>학습 시간</td>
+        <td>수료일자</td>
     </tr>
     <tr>
     	<td>파이썬 환경에서 스파크(Spark)을 사용한 빅데이터 처리</td>
