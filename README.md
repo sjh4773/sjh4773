@@ -55,6 +55,12 @@
         <td>   </td>
         <td>인프런 수료증 발급</td>
     </tr>
+    <tr>
+    	<td>국민대학교 OCW</td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+    </tr>
 </table>
 
 
@@ -114,6 +120,11 @@
     <tr>
     	<td>NoSQL DB (몽고DB/mongodb) 기본부터 파이썬/데이터분석 활용까지!</td>
         <td>10시간 13분</td>
+        <td>  </td>
+    </tr>
+    <tr>
+    	<td>파이썬 환경에서 스파크(Spark)을 사용한 빅데이터 처리</td>
+        <td>12시간</td>
         <td>  </td>
     </tr>
 </table>
