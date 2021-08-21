@@ -66,8 +66,10 @@
 
 
 
-<table align="left">
-<div margin-left: 50px>
+<table align="center">
+     <tr>
+        <th colspan="3">POSTEC 청년 AI · Big Data 아카데미(MOOC)</th>
+    </tr>
     <tr>
     	<td>강의명</td>
         <td>학습 시간</td>
@@ -93,9 +95,9 @@
         <td>11시간</td>
         <td>2021.4.08</td>
     </tr>
-</div>
-</table>
-<table align="left">
+     <tr>
+        <th colspan="3">클래스 101</th>
+    </tr>
     <tr>
     	<td>강의명</td>
         <td>학습 시간</td>
@@ -106,8 +108,9 @@
         <td>18시간</td>
         <td>2021.7.20</td>
     </tr>
-</table>
-<table align="left">
+    <tr>
+        <th colspan="3">인프런</th>
+    </tr>
     <tr>
     	<td>강의명</td>
         <td>학습 시간</td>
@@ -138,8 +141,9 @@
         <td>10시간 13분</td>
         <td>  </td>
     </tr>
-</table>
-<table align="left">
+    <tr>
+        <th colspan="3">국민대학교 OCW</th>
+    </tr>
     <tr>
     	<td>강의명</td>
         <td>학습 시간</td>
