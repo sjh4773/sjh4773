@@ -67,6 +67,7 @@
 
 
 <table align="left">
+<div margin-left: 1px>
     <tr>
     	<td>강의명</td>
         <td>학습 시간</td>
@@ -92,6 +93,7 @@
         <td>11시간</td>
         <td>2021.4.08</td>
     </tr>
+</div>
 </table>
 <table align="left">
     <tr>
