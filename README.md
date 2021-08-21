@@ -22,7 +22,8 @@
 <h4 align="center">◾자격증</p>
 <p align="center"> 정보처리기사 / 2021.08.20 / 한국산업인력공단 </p>
 <p align="center"> 전기기사 / 2020.11.12 / 한국산업인력공단 </p>
-<p align="center"> ADSP / 2021.06.18 / 한국데이터산업진흥원 </p>
+<p align="center"> ADsP 데이터분석 준전문가 / 2021.06.18 / 한국데이터산업진흥원 </p>
+<p align="center"> 워드프로세서 1급 / 2016.04.08 / 대한상공회의소 </p>
 
 <h3 align="center">🏆 수상내역 🏆 </h3>
 <p align="center"> DACON : 한국 부동산 데이터 시각화 경진대회 / 3등 </p>
