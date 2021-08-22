@@ -62,6 +62,12 @@
         <td>   </td>
         <td>   </td>
     </tr>
+    <tr>
+    	<td>부스트코스</td>
+        <td>   </td>
+        <td>   </td>
+        <td>부스트코스 수료증 발급</td>
+    </tr>
 </table>
 
 
@@ -154,5 +160,18 @@
     	<td background-color:white>파이썬 환경에서 스파크(Spark)을 사용한 빅데이터 처리</td>
         <td background-color:white>12시간</td>
         <td background-color:white>수료</td>
+    </tr>
+    <tr>
+        <th colspan="3"; bgcolor="#B0C4DE">부스트코스</th>
+    </tr>
+    <tr>
+    	<td background-color:white>강의명</td>
+        <td background-color:white>학습 시간</td>
+        <td background-color:white>수료일자</td>
+    </tr>
+    <tr>
+    	<td background-color:white>데이터 시각화를 위한 태블로</td>
+        <td background-color:white>8시간 53분</td>
+        <td background-color:white>2021.08.23</td>
     </tr>
 </table>
