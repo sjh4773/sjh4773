@@ -125,22 +125,22 @@
     <tr>
     	<td background-color:white>[백문이불여일타] 데이터 분석을 위한 기초 SQL</td>
         <td background-color:white>1시간 36분</td>
-        <td background-color:white>  </td>
+        <td background-color:white>수료</td>
     </tr>
     <tr>
     	<td background-color:white>[백문이불여일타] 데이터 분석을 위한 중급 SQL</td>
         <td background-color:white>4시간 15분</td>
-        <td background-color:white>  </td>
+        <td background-color:white>수료</td>
     </tr>
     <tr>
     	<td background-color:white>[백문이불여일타] 데이터 분석을 위한 중급 SQL 문제풀이</td>
         <td background-color:white>2시간 12분</td>
-        <td background-color:white>  </td>
+        <td background-color:white>수료</td>
     </tr>
     <tr>
     	<td background-color:white>NoSQL DB (몽고DB/mongodb) 기본부터 파이썬/데이터분석 활용까지!</td>
         <td background-color:white>10시간 13분</td>
-        <td background-color:white>  </td>
+        <td background-color:white>수료</td>
     </tr>
     <tr>
         <th colspan="3"; bgcolor="#B0C4DE">국민대학교 OCW</th>
@@ -153,6 +153,6 @@
     <tr>
     	<td background-color:white>파이썬 환경에서 스파크(Spark)을 사용한 빅데이터 처리</td>
         <td background-color:white>12시간</td>
-        <td background-color:white>  </td>
+        <td background-color:white>수료</td>
     </tr>
 </table>
