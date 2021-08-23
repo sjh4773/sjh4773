@@ -15,6 +15,7 @@
 </p>
 
 <h3 align="center">🏄 Tech Blog & Tableau Gallery 🏄 </h3>
+<h5 align="center">↓ 아래 아이콘을 누르면 블로그 및 태블로 갤러리로 이동할 수 있습니다!</h5>
 <p align="center">
 <a href="https://sjh4773.github.io/"><img src="https://img.shields.io/badge/Tech Blog-1AB7EA?style=flat-square&logo=Vimeo&logoColor=white&link=https://sjh4773.github.io/"/></a>
 <a href="https://public.tableau.com/app/profile/.22377384/"><img src="https://img.shields.io/badge/Tableau Gallery-E97627?style=flat-square&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/.22377384"/></a>
