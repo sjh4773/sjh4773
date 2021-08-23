@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=89E5EB&height=300&section=header&text=JIHUN%20SEO&fontSize=90)
 
-<h3 align="center">📜 학력 📜</h3>
-<p align="center">2021.09 한국IT교육원 자율주행 ADAS반 수료 예정</p>
-<p align="center">2021.02 한국산업기술대학교 전자공학과 졸업</p>
+<h3 align="center"> 학력 </h3>
+<p align="center">◾2021.09 한국IT교육원 자율주행 ADAS반 수료 예정</p>
+<p align="center">◾2021.02 한국산업기술대학교 전자공학과 졸업</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
