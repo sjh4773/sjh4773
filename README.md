@@ -154,6 +154,11 @@
         <td background-color:white>수료</td>
     </tr>
     <tr>
+    	<td background-color:white>Hadoop 3.2.1 and Big data</td>
+        <td background-color:white>5시간 56분</td>
+        <td background-color:white>2021.08.25</td>
+    </tr>
+    <tr>
         <th colspan="3"; bgcolor="#B0C4DE">국민대학교 OCW</th>
     </tr>
     <tr>
