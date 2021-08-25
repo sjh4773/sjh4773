@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>&nbsp
 </p>
 <p align="center">
- <<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache Hadoop&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Hadoop&logoColor=white"/></a>&nbsp
  </p>
 
 <h3 align="center">🏄 Tech Blog & Tableau Gallery 🏄 </h3>
