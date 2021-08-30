@@ -184,4 +184,16 @@
         <td background-color:white>8시간 53분</td>
         <td background-color:white>2021.08.23</td>
     </tr>
+        <th colspan="3"; bgcolor="#B0C4DE">유튜브</th>
+    </tr>
+    <tr>
+    	<td background-color:white>강의명</td>
+        <td background-color:white>학습 시간</td>
+        <td background-color:white>수료일자</td>
+    </tr>
+    <tr>
+    	<td background-color:white>(남궁성의 정석 코딩) 자바의 정석 기초편 - 객체지향의 개념</td>
+        <td background-color:white>13시간 16분</td>
+        <td background-color:white>2021.08.30</td>
+    </tr>
 </table>
