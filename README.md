@@ -201,4 +201,9 @@
         <td background-color:white>8시간 30분</td>
         <td background-color:white>2021.09.02</td>
     </tr>
+    <tr>
+    	<td background-color:white>(뉴렉처) JDBC 강의</td>
+        <td background-color:white>2시간 50분</td>
+        <td background-color:white>2021.09.03</td>
+    </tr>
 </table>
