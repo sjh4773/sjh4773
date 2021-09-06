@@ -206,4 +206,9 @@
         <td background-color:white>2시간 50분</td>
         <td background-color:white>2021.09.03</td>
     </tr>
+    <tr>
+    	<td background-color:white>(뉴렉처) 리눅스(Linux)서버 강의/강좌 for 개발자</td>
+        <td background-color:white>7시간 42분</td>
+        <td background-color:white>2021.09.06</td>
+    </tr>
 </table>
