@@ -73,6 +73,12 @@
         <td>   </td>
         <td>부스트코스 수료증 발급</td>
     </tr>
+    <tr>
+    	<td>Tacademy</td>
+        <td>   </td>
+        <td>   </td>
+        <td>Tacademy 수료증 발급</td>
+    </tr>
 </table>
 
 
@@ -184,6 +190,7 @@
         <td background-color:white>8시간 53분</td>
         <td background-color:white>2021.08.23</td>
     </tr>
+    <tr>
         <th colspan="3"; bgcolor="#B0C4DE">유튜브</th>
     </tr>
     <tr>
@@ -210,5 +217,18 @@
     	<td background-color:white>(뉴렉처) 리눅스(Linux)서버 강의/강좌 for 개발자</td>
         <td background-color:white>7시간 42분</td>
         <td background-color:white>2021.09.06</td>
+    </tr>
+    <tr>
+        <th colspan="3"; bgcolor="#B0C4DE">Tacademy</th>
+    </tr>
+    <tr>
+    	<td background-color:white>강의명</td>
+        <td background-color:white>학습 시간</td>
+        <td background-color:white>수료일자</td>
+    </tr>
+    <tr>
+    	<td background-color:white>아파치 카프카 입문</td>
+        <td background-color:white>2시간 57분</td>
+        <td background-color:white>2021.09.13</td>
     </tr>
 </table>
