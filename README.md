@@ -231,4 +231,9 @@
         <td background-color:white>2시간 57분</td>
         <td background-color:white>2021.09.13</td>
     </tr>
+    <tr>
+    	<td background-color:white>아파치 하둡 입문</td>
+        <td background-color:white>4시간 18분</td>
+        <td background-color:white>2021.09.14</td>
+    </tr>
 </table>
